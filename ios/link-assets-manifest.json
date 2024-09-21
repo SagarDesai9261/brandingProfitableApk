@@ -1,0 +1,457 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Cabin-Bold.ttf",
+      "sha1": "e8c8ecb8827673e3e7793224ab2b7095bf3d609d"
+    },
+    {
+      "path": "assets/fonts/Cabin-BoldItalic.ttf",
+      "sha1": "08b2ae0f035aa3b3a69783a38038c1dca31d2796"
+    },
+    {
+      "path": "assets/fonts/Cabin-Regular.ttf",
+      "sha1": "808229c4f1936996bc5395b6bce808626b943d85"
+    },
+    {
+      "path": "assets/fonts/ComicNeue-Bold.ttf",
+      "sha1": "8c99bcfc474c47e30412da69f8f896456799ccbd"
+    },
+    {
+      "path": "assets/fonts/ComicNeue-Regular.ttf",
+      "sha1": "56a4aa0686cdc5c2d720cd2c8bfe50c952632491"
+    },
+    {
+      "path": "assets/fonts/Cookie-Regular.ttf",
+      "sha1": "a10d4f6d0f42a992e9c2bc573ce4f26cc8eb4725"
+    },
+    {
+      "path": "assets/fonts/Corinthia-Regular.ttf",
+      "sha1": "1d3032582e6bd4bf62864fd5635e72847e590979"
+    },
+    {
+      "path": "assets/fonts/DMSans-Bold.ttf",
+      "sha1": "9420b53f2af12576f6b96354edf420ec24358087"
+    },
+    {
+      "path": "assets/fonts/DMSans-BoldItalic.ttf",
+      "sha1": "2cda7fbf23c06dbac3313d545ee3d731337d0806"
+    },
+    {
+      "path": "assets/fonts/DMSans-Italic.ttf",
+      "sha1": "d25f274ef2cedcf71d66a4297d7337b6ae89a4ae"
+    },
+    {
+      "path": "assets/fonts/DMSans-Regular.ttf",
+      "sha1": "cbadb75c260d17b837793c16d77a4e5048e948e2"
+    },
+    {
+      "path": "assets/fonts/Gaegu-Bold.ttf",
+      "sha1": "d89b7842d95ac9678456663a578c4ba2cfd39b27"
+    },
+    {
+      "path": "assets/fonts/Gaegu-Regular.ttf",
+      "sha1": "21933927fff6381dd7d758ad4a89c845abfa9e73"
+    },
+    {
+      "path": "assets/fonts/Inter-Bold.ttf",
+      "sha1": "48747b7a60086f97af0d373febcbd1f1bee87f17"
+    },
+    {
+      "path": "assets/fonts/Inter-BoldItalic.otf",
+      "sha1": "8774206d7703bfe27f6d5302e5385983c26e13a1"
+    },
+    {
+      "path": "assets/fonts/Inter-Italic.otf",
+      "sha1": "1d8db12a427db7418be418b77bafb9a916ac0534"
+    },
+    {
+      "path": "assets/fonts/Inter-Med.ttf",
+      "sha1": "a418a8ba73bbcfa8c131c426ab836d78457afa9b"
+    },
+    {
+      "path": "assets/fonts/Istok-Bold.ttf",
+      "sha1": "756edb27706a71b38d633adbc6b2046c76539585"
+    },
+    {
+      "path": "assets/fonts/Istok-BoldItalic.ttf",
+      "sha1": "e05633c3b0fd6a33871d092a95e91e3f984d12f8"
+    },
+    {
+      "path": "assets/fonts/Istok-Italic.ttf",
+      "sha1": "901529ed4426eedd7cc76c62c045c3a0cca1e32f"
+    },
+    {
+      "path": "assets/fonts/Istok-Regular.ttf",
+      "sha1": "7a14140f0a9f3e3f11c6f1ddf5c5caa1d4296f0d"
+    },
+    {
+      "path": "assets/fonts/IstokWeb-Bold.ttf",
+      "sha1": "07a04b93937b9df9d7bfbfb0d15593fd7e3a139a"
+    },
+    {
+      "path": "assets/fonts/IstokWeb-Regular.ttf",
+      "sha1": "ca3c5fc5f6f7349d375f2c4faeb2a02dc63671ed"
+    },
+    {
+      "path": "assets/fonts/JimNightshade-Regular.ttf",
+      "sha1": "9d15272aec5fdac03386855bd23a5281e0749014"
+    },
+    {
+      "path": "assets/fonts/KaiseiHarunoUmi-Bold.ttf",
+      "sha1": "4c1bf00e6930fec91eb5614d1c5c81e8429a401e"
+    },
+    {
+      "path": "assets/fonts/KaiseiHarunoUmi-Regular.ttf",
+      "sha1": "5742d7b026811697bb5bb772d4e3cd5b692bd86b"
+    },
+    {
+      "path": "assets/fonts/KoHo-Bold.ttf",
+      "sha1": "bb0e20686ec1f899b85f8f73d23087ca3742115a"
+    },
+    {
+      "path": "assets/fonts/KoHo-BoldItalic.ttf",
+      "sha1": "3c37e69c364a279f867a19243e3b9b1bffc55bba"
+    },
+    {
+      "path": "assets/fonts/KoHo-Italic.ttf",
+      "sha1": "fe25a56804b11f203a0a3178e5495068598985b9"
+    },
+    {
+      "path": "assets/fonts/KoHo-Regular.ttf",
+      "sha1": "9711d2d43ca5c72e5856f93e843e15767647413e"
+    },
+    {
+      "path": "assets/fonts/Kreon-Bold.ttf",
+      "sha1": "c14a8987159dbfbe66184eedf1b8368d2dffd868"
+    },
+    {
+      "path": "assets/fonts/Kreon-Regular.ttf",
+      "sha1": "aa2eab4ce0e720a890a81eed40b7952f2f6dc5b8"
+    },
+    {
+      "path": "assets/fonts/Kufam-Bold.ttf",
+      "sha1": "f33b36c6d5019284d9edee72e303e1d2142b92ea"
+    },
+    {
+      "path": "assets/fonts/Kufam-BoldItalic.ttf",
+      "sha1": "693f9f97192c74a0e331cf945c3f97817f1daa99"
+    },
+    {
+      "path": "assets/fonts/Kufam-Italic.ttf",
+      "sha1": "6e92423f6cf572dbf884ee696cec67ea38442b45"
+    },
+    {
+      "path": "assets/fonts/Kufam-Regular.ttf",
+      "sha1": "9a3bebe9ba64f82e4e2e921eae08a7626be72200"
+    },
+    {
+      "path": "assets/fonts/LaBelleAurore-Regular.ttf",
+      "sha1": "c2754389eef05841c6746eee112d5d555e9e302b"
+    },
+    {
+      "path": "assets/fonts/Lato-Bold.ttf",
+      "sha1": "a3a53a436baaf6dc2e7a05f05866a761c214692b"
+    },
+    {
+      "path": "assets/fonts/Lato-BoldItalic.ttf",
+      "sha1": "700d092c29a0b677abbfde8b73d81506147cfdfd"
+    },
+    {
+      "path": "assets/fonts/Lato-Italic.ttf",
+      "sha1": "5fab64c8752be020a42f18b74690b76356073fed"
+    },
+    {
+      "path": "assets/fonts/Lato-Regular.ttf",
+      "sha1": "29eb192629b0bbb41a7b7f49ab2aec82d4261921"
+    },
+    {
+      "path": "assets/fonts/Manrope-Bold.ttf",
+      "sha1": "a6b63c832d12337efb3123f47863f54472c81bf5"
+    },
+    {
+      "path": "assets/fonts/Manrope-Regular.ttf",
+      "sha1": "036b14064c7b90b4b200f2730981effea5e58b15"
+    },
+    {
+      "path": "assets/fonts/Merriweather-Bold.ttf",
+      "sha1": "09c7429408c624b9991c44e9975a9129fb2d2fe7"
+    },
+    {
+      "path": "assets/fonts/Merriweather-BoldItalic.ttf",
+      "sha1": "0c1e46b29b26bbb70ee87925d44b3c221b98b358"
+    },
+    {
+      "path": "assets/fonts/Merriweather-Italic.ttf",
+      "sha1": "cd26aeb34e6264a2d49d0d376d45c469f74aa737"
+    },
+    {
+      "path": "assets/fonts/Merriweather-Regular.ttf",
+      "sha1": "f4e7810e4e20d1932d3d7994bb6f6456280ee6bd"
+    },
+    {
+      "path": "assets/fonts/MerriweatherSans-Bold.ttf",
+      "sha1": "2b4a668f7943afe0485c3a2964da57a3ab575128"
+    },
+    {
+      "path": "assets/fonts/MerriweatherSans-BoldItalic.ttf",
+      "sha1": "678389f8d54d96600e9418a33054c485b56a1b2b"
+    },
+    {
+      "path": "assets/fonts/MerriweatherSans-Italic.ttf",
+      "sha1": "7e02453efc37b1c0fb92c522069f40f513440ed7"
+    },
+    {
+      "path": "assets/fonts/MerriweatherSans-Regular.ttf",
+      "sha1": "432d5f98a9baa03d6889dc3eec74a9968f8c4298"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "bf257f6f91f6522eccea6d4f28d57bb118c98729"
+    },
+    {
+      "path": "assets/fonts/Montserrat-BoldItalic.ttf",
+      "sha1": "3e4f84f047452d1d3b262a4db5547b4baf390de8"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Italic.ttf",
+      "sha1": "2ff6c8d3a64ccd9f3c85dc7eef16a818af7075bc"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "9ca420aa453eb243037970c0c1c1adfe289f510f"
+    },
+    {
+      "path": "assets/fonts/NunitoSans-Bold.ttf",
+      "sha1": "8ebd43c3b1c36c1acacb5c59bd087da110eb47c7"
+    },
+    {
+      "path": "assets/fonts/NunitoSans-BoldItalic.ttf",
+      "sha1": "11cf1d2584da56b2a69cf1cf61c1a1ffdea282af"
+    },
+    {
+      "path": "assets/fonts/NunitoSans-Italic.ttf",
+      "sha1": "47b042c3ec23bd49a65647284e9d01e793eeda69"
+    },
+    {
+      "path": "assets/fonts/NunitoSans-Regular.ttf",
+      "sha1": "0660c9ab1b018a073e06d7a13b0b3959940effba"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "953814da1b753763dfa5a7ecc18bdbb14890e16b"
+    },
+    {
+      "path": "assets/fonts/OpenSans-BoldItalic.ttf",
+      "sha1": "43cb75e197c96a680fed81dfd708321f06fea484"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Italic.ttf",
+      "sha1": "c535573db70f9a6208bb99101ffe83cdba9d11a2"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "76ea5d4c70539ad9b0e7faf7e4fbe3bae8a961c7"
+    },
+    {
+      "path": "assets/fonts/Oswald-BoldItalic.ttf",
+      "sha1": "587960d36b3a3a221915fdb4787bd11ec588e109"
+    },
+    {
+      "path": "assets/fonts/Oswald-Italic.ttf",
+      "sha1": "7bc8f848a628a51cc762b10a94d4ca64badd369e"
+    },
+    {
+      "path": "assets/fonts/Oswald-Regular.ttf",
+      "sha1": "cf5adbf5c521d1a9b68a7c8b3af9193c0f6e5460"
+    },
+    {
+      "path": "assets/fonts/Outfit-Bold.ttf",
+      "sha1": "1fb1bac5b7ca944183892094a02d1ae07387f26e"
+    },
+    {
+      "path": "assets/fonts/Outfit-Regular.ttf",
+      "sha1": "ae5652d0bed8c90d97c43fe6bcaac0a9b0f787e7"
+    },
+    {
+      "path": "assets/fonts/PatrickHand-Regular.ttf",
+      "sha1": "0a3c5153b2778efd30529b9a5ad6a2135567d0d4"
+    },
+    {
+      "path": "assets/fonts/PatrickHandSC-Regular.ttf",
+      "sha1": "0ffcb9f86cfdf9b9c4a03ebd2f4b623a6e4caca7"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-BoldItalic.ttf",
+      "sha1": "01e45891a890271e10cb70bf67ca3c734e29b55d"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "94d3ee3acdbd00e37a715a25f2b5237666b5b8a3"
+    },
+    {
+      "path": "assets/fonts/Poppins-Italic.ttf",
+      "sha1": "802808641b31201f581c2f758a746b1d83dee12b"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Prompt-Bold.ttf",
+      "sha1": "8c59ed0f51235417d0bd5aef93bdfdc05ea9e677"
+    },
+    {
+      "path": "assets/fonts/Prompt-BoldItalic.ttf",
+      "sha1": "fc25d5be872639a376d225691a1a56645c1b44ce"
+    },
+    {
+      "path": "assets/fonts/Prompt-Italic.ttf",
+      "sha1": "743abdb1318fa9cdc1fcd12ef1fdf3c5d949d4fb"
+    },
+    {
+      "path": "assets/fonts/Prompt-Regular.ttf",
+      "sha1": "32d6506f2469ad4574e77b381f5e0a173f3ede19"
+    },
+    {
+      "path": "assets/fonts/PTSans-Bold.ttf",
+      "sha1": "356c8987ef7a8752108cf7b7a86d1f1bf0c60999"
+    },
+    {
+      "path": "assets/fonts/PTSans-BoldItalic.ttf",
+      "sha1": "cd69d1075252eeec8546f29e42718f3a2099783f"
+    },
+    {
+      "path": "assets/fonts/PTSans-Italic.ttf",
+      "sha1": "697b17dd18c33aac07e8d56426367fa1a0c7a467"
+    },
+    {
+      "path": "assets/fonts/PTSans-Regular.ttf",
+      "sha1": "641626d5d6a625a1e46e09ceb806cf33d1c1867e"
+    },
+    {
+      "path": "assets/fonts/Raleway-Bold.ttf",
+      "sha1": "b887eb952d1891535389db7d1d1c127d1734bd97"
+    },
+    {
+      "path": "assets/fonts/Raleway-BoldItalic.ttf",
+      "sha1": "a0d12d97cf92a207668741977ba757104f441392"
+    },
+    {
+      "path": "assets/fonts/Raleway-Italic.ttf",
+      "sha1": "ef0798d10e4ba26a9624bbefc07d896876dc1cc4"
+    },
+    {
+      "path": "assets/fonts/Raleway-Regular.ttf",
+      "sha1": "f7c22a60e4bbae4e0b673de414108ec1a5a50edf"
+    },
+    {
+      "path": "assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "8cd79e47ed8a9f9ea79ffa186852ad7cbad5687f"
+    },
+    {
+      "path": "assets/fonts/Roboto-Italic.ttf",
+      "sha1": "0213e38dffde2a0a5672d84fb62c6aa994e38c3b"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "3f0dfd3eb0d6e6946d2063ac7b9e9151a65a7550"
+    },
+    {
+      "path": "assets/fonts/Rubik-Bold.ttf",
+      "sha1": "1d9df31729337fc218e0bf498d62f97637d3dec1"
+    },
+    {
+      "path": "assets/fonts/Rubik-BoldItalic.ttf",
+      "sha1": "f2143890a5167a13f2ea2c18ecf55405047c9b92"
+    },
+    {
+      "path": "assets/fonts/Rubik-Italic.ttf",
+      "sha1": "25fe5c4463d4f52be1c28c443397a4489de78bc5"
+    },
+    {
+      "path": "assets/fonts/Rubik-Regular.ttf",
+      "sha1": "2868ed5b41766a9bba84b1c6649cacc7d0f81d53"
+    },
+    {
+      "path": "assets/fonts/Signika-Bold.ttf",
+      "sha1": "ff72d523de8c45f552a5e67daf453acc86efbb3e"
+    },
+    {
+      "path": "assets/fonts/Signika-Regular.ttf",
+      "sha1": "668e4c131b70f3afac7bb98ce16480b2952e2f95"
+    },
+    {
+      "path": "assets/fonts/Slabo27px-Regular.ttf",
+      "sha1": "ce9d34d158a61cab528034421880f51f0027dafa"
+    },
+    {
+      "path": "assets/fonts/SourceSansPro-Bold.ttf",
+      "sha1": "550fab8dfdcadddcecc417c646fb24be14bde7d8"
+    },
+    {
+      "path": "assets/fonts/SourceSansPro-BoldItalic.ttf",
+      "sha1": "aa9251100ceb5ea6fd621ecdc250a74f27df85d6"
+    },
+    {
+      "path": "assets/fonts/SourceSansPro-Italic.ttf",
+      "sha1": "58eb563cd43c85076c54f034dbbb0f98f019c788"
+    },
+    {
+      "path": "assets/fonts/SourceSansPro-Regular.ttf",
+      "sha1": "8b3b1452c62e3d185315ee3c1598e24728157f46"
+    },
+    {
+      "path": "assets/fonts/Ubuntu Mono Regular.ttf",
+      "sha1": "c2cebc780d3e60eb315d0416dd27fe42d19d7c56"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Bold.ttf",
+      "sha1": "21256042205248084e804e65293580a199cfafd7"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-BoldItalic.ttf",
+      "sha1": "b40d7aabefc3cea6b117dfa0735cec13532d0f59"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Italic.ttf",
+      "sha1": "f20fd48590916361fe3bff4a259b55ebc2e5736f"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Regular.ttf",
+      "sha1": "609cf7e8b9a4da1be03366dc8d275ed73659cd47"
+    },
+    {
+      "path": "assets/fonts/UbuntuMono-Bold.ttf",
+      "sha1": "590d3fa8514adf0169fa18224ccfaab9e7decc7d"
+    },
+    {
+      "path": "assets/fonts/UbuntuMono-BoldItalic.ttf",
+      "sha1": "1028b096d2790d877fe626a4be9f678ce5512205"
+    },
+    {
+      "path": "assets/fonts/UbuntuMono-Italic.ttf",
+      "sha1": "e4f50e05294d455a946cb8682e210e68fdcf5cb3"
+    },
+    {
+      "path": "assets/fonts/UbuntuMono-Regular.ttf",
+      "sha1": "e17c11971f57bd8dfab74b9a0881c71a78bd7940"
+    },
+    {
+      "path": "assets/fonts/WorkSans-Bold.ttf",
+      "sha1": "d73d4bc7d3bd023a9f131ed442d2d2c46e723da3"
+    },
+    {
+      "path": "assets/fonts/WorkSans-Regular.ttf",
+      "sha1": "f29ac48a331dda2fc62d3bf21165637f73d7a66e"
+    }
+  ]
+}
